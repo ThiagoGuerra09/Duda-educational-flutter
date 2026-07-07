@@ -1,0 +1,50 @@
+{
+  "professor": {
+    "id": "prof-001",
+    "name": "Thiago",
+    "fullName": "Thiago Guerra",
+    "initials": "T",
+    "department": "Ciências da Saúde",
+    "campus": "Campus Paulista"
+  },
+  "welcomeMessage": "Facilitador do seu dia a dia",
+  "nextClass": {
+    "subject": "Metodologia Científica II",
+    "time": "08:00 - 10:30",
+    "room": "A - A14",
+    "students": 42
+  },
+  "subjects": [
+    {
+      "id": "sub-001",
+      "name": "Metodologia Científica II",
+      "classCount": 2
+    },
+    {
+      "id": "sub-002",
+      "name": "Itinerário Extensionista I",
+      "classCount": 1
+    },
+    {
+      "id": "sub-003",
+      "name": "Inteligência Artificial",
+      "classCount": 2
+    }
+  ],
+  "quickAccess": [
+    {
+      "id": "qa-001",
+      "title": "Acessar Blackboard",
+      "subtitle": "Plataforma de ensino"
+    }
+  ],
+  "pendingAssignments": 3,
+  "unreadNotifications": 5,
+  "announcements": [
+    {
+      "id": "ann-001",
+      "title": "Reunião pedagógica",
+      "date": "2026-07-10"
+    }
+  ]
+}

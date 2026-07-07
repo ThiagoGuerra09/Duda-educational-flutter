@@ -1,0 +1,66 @@
+{
+  "details": {
+    "cls-001": {
+      "id": "cls-001",
+      "name": "Inteligência Artificial - Turma_002",
+      "offerId": "123455",
+      "schedule": "Quarta das 08:00 às 10:30",
+      "location": "A - A14",
+      "averageGrade": 4.2,
+      "classGroup": "Turma 002",
+      "semester": "6º semestre | Ciência da Computação",
+      "studentCount": 35,
+      "attendanceRate": "75%",
+      "materials": [
+        { "id": "mat-001", "title": "Relação de alunos da turma", "icon": "list" },
+        { "id": "mat-002", "title": "Emissão de plano de ensino", "icon": "download" }
+      ],
+      "students": [
+        { "id": "stu-001", "name": "Ana Paula Costa", "registration": "2024001" },
+        { "id": "stu-002", "name": "Bruno Oliveira", "registration": "2024002" },
+        { "id": "stu-003", "name": "Carla Mendes", "registration": "2024003" }
+      ],
+      "activities": [
+        { "id": "act-001", "title": "Trabalho Prático 1", "dueDate": "2026-07-15", "status": "pending" },
+        { "id": "act-002", "title": "Prova Bimestral", "dueDate": "2026-07-20", "status": "scheduled" }
+      ],
+      "grades": [
+        { "studentName": "Ana Paula Costa", "grade": 4.5 },
+        { "studentName": "Bruno Oliveira", "grade": 3.8 }
+      ],
+      "attendance": [
+        { "studentName": "Ana Paula Costa", "rate": "90%" },
+        { "studentName": "Bruno Oliveira", "rate": "75%" }
+      ]
+    },
+    "cls-003": {
+      "id": "cls-003",
+      "name": "(ENFERMAGEM-8B)",
+      "offerId": "123455",
+      "schedule": "Quarta das 08:00 às 10:30",
+      "location": "A - A14",
+      "averageGrade": 4.2,
+      "classGroup": "Turma 8B",
+      "semester": "8º semestre | Enfermagem",
+      "studentCount": 42,
+      "attendanceRate": "80%",
+      "materials": [
+        { "id": "mat-001", "title": "Relação de alunos da turma", "icon": "list" },
+        { "id": "mat-002", "title": "Emissão de plano de ensino", "icon": "download" }
+      ],
+      "students": [
+        { "id": "stu-001", "name": "Ana Paula Costa", "registration": "2024001" },
+        { "id": "stu-002", "name": "Bruno Oliveira", "registration": "2024002" }
+      ],
+      "activities": [
+        { "id": "act-001", "title": "Estudo de Caso Clínico", "dueDate": "2026-07-18", "status": "pending" }
+      ],
+      "grades": [
+        { "studentName": "Ana Paula Costa", "grade": 4.2 }
+      ],
+      "attendance": [
+        { "studentName": "Ana Paula Costa", "rate": "85%" }
+      ]
+    }
+  }
+}

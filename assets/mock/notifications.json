@@ -1,0 +1,76 @@
+{
+  "notifications": [
+    {
+      "id": "not-001",
+      "title": "Aula de IA remarcada",
+      "body": "A aula de Inteligência Artificial - Turma_002 foi remarcada para quinta-feira, 10/07, das 14h às 16h30 na sala virtual 204.",
+      "category": "aula",
+      "date": "2026-07-07T08:30:00",
+      "isRead": false
+    },
+    {
+      "id": "not-002",
+      "title": "Feriado — Dia da Independência",
+      "body": "Não haverá aulas no dia 07/09. O calendário acadêmico foi atualizado automaticamente.",
+      "category": "feriado",
+      "date": "2026-07-07T07:00:00",
+      "isRead": false
+    },
+    {
+      "id": "not-003",
+      "title": "Metodologia Científica II cancelada",
+      "body": "A aula de segunda-feira (14/07) foi cancelada por motivo de capacitação docente. Reposição em 21/07.",
+      "category": "aula",
+      "date": "2026-07-06T18:00:00",
+      "isRead": false
+    },
+    {
+      "id": "not-004",
+      "title": "Recesso de meio de ano",
+      "body": "O recesso institucional ocorre de 15/07 a 28/07. Retorno das atividades em 29/07.",
+      "category": "feriado",
+      "date": "2026-07-06T09:00:00",
+      "isRead": true
+    },
+    {
+      "id": "not-005",
+      "title": "Prazo de entrega de notas",
+      "body": "Notas do bimestre devem ser lançadas até sexta-feira, 11/07.",
+      "category": "prazo",
+      "date": "2026-07-06T09:00:00",
+      "isRead": false
+    },
+    {
+      "id": "not-006",
+      "title": "Reunião pedagógica amanhã",
+      "body": "Reunião com coordenação de Enfermagem às 14h na sala 201.",
+      "category": "reuniao",
+      "date": "2026-07-05T16:30:00",
+      "isRead": true
+    },
+    {
+      "id": "not-007",
+      "title": "Sala de Enfermagem alterada",
+      "body": "A aula de Itinerário Extensionista I passa a ser no laboratório 3B a partir desta semana.",
+      "category": "aula",
+      "date": "2026-07-05T10:00:00",
+      "isRead": true
+    },
+    {
+      "id": "not-008",
+      "title": "Nova mensagem da coordenação",
+      "body": "Verifique o chat para detalhes sobre o calendário de provas.",
+      "category": "aviso",
+      "date": "2026-07-04T16:30:00",
+      "isRead": true
+    },
+    {
+      "id": "not-009",
+      "title": "Atualização do Blackboard",
+      "body": "Manutenção programada no domingo às 2h. Acesso indisponível por até 2 horas.",
+      "category": "sistema",
+      "date": "2026-07-04T11:00:00",
+      "isRead": true
+    }
+  ]
+}

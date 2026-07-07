@@ -1,0 +1,31 @@
+{
+  "conversations": [
+    {
+      "id": "conv-001",
+      "participantName": "Coordenador",
+      "participantInitials": "C",
+      "lastMessage": "Precisamos alinhar o calendário de provas.",
+      "lastMessageTime": "14:32",
+      "unreadCount": 2,
+      "isOnline": true
+    },
+    {
+      "id": "conv-002",
+      "participantName": "Maria Santos",
+      "participantInitials": "M",
+      "lastMessage": "Obrigada pelo material compartilhado!",
+      "lastMessageTime": "Ontem",
+      "unreadCount": 0,
+      "isOnline": false
+    },
+    {
+      "id": "conv-003",
+      "participantName": "Secretaria Acadêmica",
+      "participantInitials": "S",
+      "lastMessage": "Documentos recebidos com sucesso.",
+      "lastMessageTime": "Seg",
+      "unreadCount": 0,
+      "isOnline": false
+    }
+  ]
+}

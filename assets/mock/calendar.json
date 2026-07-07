@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "title": "Aula - Metodologia Científica II",
+      "type": "aula",
+      "date": "2026-07-07",
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "location": "A - A14"
+    },
+    {
+      "id": "evt-002",
+      "title": "Prova Bimestral - IA",
+      "type": "prova",
+      "date": "2026-07-10",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": "Lab 3"
+    },
+    {
+      "id": "evt-003",
+      "title": "Reunião Pedagógica",
+      "type": "reuniao",
+      "date": "2026-07-10",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "location": "Sala 201"
+    },
+    {
+      "id": "evt-004",
+      "title": "Aula - Enfermagem 8B",
+      "type": "aula",
+      "date": "2026-07-09",
+      "startTime": "08:00",
+      "endTime": "10:30",
+      "location": "A - A14"
+    },
+    {
+      "id": "evt-005",
+      "title": "Entrega de Trabalho Prático",
+      "type": "prazo",
+      "date": "2026-07-15",
+      "startTime": "23:59",
+      "endTime": "23:59",
+      "location": "Online"
+    }
+  ]
+}

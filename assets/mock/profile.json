@@ -1,0 +1,17 @@
+{
+  "professor": {
+    "id": "prof-001",
+    "name": "Thiago Guerra",
+    "initials": "T",
+    "email": "thiagoguerra@cruzeiro.edu.br",
+    "photoUrl": null,
+    "department": "Ciências da Saúde",
+    "campus": "Campus Paulista",
+    "subjects": [
+      "Metodologia Científica II",
+      "Itinerário Extensionista I",
+      "Inteligência Artificial"
+    ],
+    "bio": "Professor dedicado ao ensino superior com foco em metodologias ativas."
+  }
+}

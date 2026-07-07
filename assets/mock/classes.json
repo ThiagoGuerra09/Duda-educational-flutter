@@ -1,0 +1,48 @@
+{
+  "classes": [
+    {
+      "id": "cls-001",
+      "code": "CVCS_EAD_1885789",
+      "name": "Inteligência Artificial - Turma_002",
+      "course": "Graduação EAD – Junho 2024",
+      "studentCount": 35,
+      "schedule": "Quarta das 08:00 às 10:30",
+      "status": "active",
+      "accentColor": "#EC4899",
+      "instructors": "Vários instrutores"
+    },
+    {
+      "id": "cls-002",
+      "code": "CVCS_EAD_1885790",
+      "name": "Metodologia Científica II - Turma_001",
+      "course": "Graduação EAD – Junho 2024",
+      "studentCount": 28,
+      "schedule": "Segunda das 14:00 às 16:30",
+      "status": "active",
+      "accentColor": "#EAB308",
+      "instructors": "Thiago Guerra"
+    },
+    {
+      "id": "cls-003",
+      "code": "CVCS_EAD_1885791",
+      "name": "(ENFERMAGEM-8B)",
+      "course": "Itinerário Extensionista I",
+      "studentCount": 42,
+      "schedule": "Quarta das 08:00 às 10:30",
+      "status": "active",
+      "accentColor": "#2B6CB0",
+      "instructors": "Thiago Guerra"
+    },
+    {
+      "id": "cls-004",
+      "code": "CVCS_EAD_1885792",
+      "name": "Biologia Celular - Turma_003",
+      "course": "Graduação Presencial – Março 2024",
+      "studentCount": 30,
+      "schedule": "Terça das 10:00 às 12:00",
+      "status": "completed",
+      "accentColor": "#22C55E",
+      "instructors": "Maria Santos"
+    }
+  ]
+}
